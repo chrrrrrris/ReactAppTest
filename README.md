@@ -1,3 +1,5 @@
+This project is a test project to demostrate React's capabilities.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
